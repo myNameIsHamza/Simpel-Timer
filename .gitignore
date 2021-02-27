@@ -1,9 +1,14 @@
 # See https://www.dartlang.org/guides/libraries/private-files
 
 # Files and directories created by pub
-.dart_tool/
+
+.idea
+.vscode
 .packages
-build/
+.dart_tool
+.flutter-plugins
+.flutter-plugins-dependencies
+/build/
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 
